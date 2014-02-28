@@ -33,9 +33,9 @@ $('document').ready(function(e) {
 	
 		
 		//LOOP THAT CREATES THE RIDGES
-		for (var i = 0; i < numberOfRidges - 1; i++){
-			$('.channels').append("<div class = \"ridge\" id = \"" + i + "\"></div>");
-		}	
+//		for (var i = 0; i < numberOfRidges - 1; i++){
+//			$('.channels').append("<div class = \"ridge\" id = \"" + i + "\"></div>");
+//		}	
 	}
 
 	
